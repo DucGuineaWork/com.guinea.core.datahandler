@@ -1,0 +1,14 @@
+{
+    "name": "com.guinea.core.datahandler",
+    "version": "0.1.0",
+    "displayName": "Guinea Core DataHandler",
+    "description": "Guinea Core DataHandler Package",
+    "unity": "2022.3",
+    "dependencies": {
+    },
+    "keywords": [],
+    "author": {
+      "name": "GuineaPig"
+    }
+  }
+  
